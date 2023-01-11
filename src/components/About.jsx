@@ -5,7 +5,7 @@ function About() {
   return (
     <div className="flex flex-col md:flex-row items-center justify-center gap-10 md:gap-20 py-20">
       <div className="w-full md:w-6/12">
-        <SectionTitle>About Me </SectionTitle>
+        <SectionTitle>Über mich </SectionTitle>
         <p className="text-md text-gray-600 dark:text-gray-300">
           Qui duis reprehenderit sint est magna aliqua ut ex ipsum sunt nulla.
           Culpa cupidatat est dolore ad qui aute tempor anim voluptate eiusmod.
@@ -23,7 +23,7 @@ function About() {
         </a>
       </div>
       <img
-        src={"https://avatars.githubusercontent.com/geraxgera"}
+        src={"https://user-images.githubusercontent.com/71287015/211812016-c7456e75-8efc-4002-9ff6-ace642611e6c.jpeg"}
         alt="German Konradi"
         className=" w-6/12 rounded-lg object-cover "
       />
