@@ -3,30 +3,30 @@ export default [
 	{
 		title: 'Tattoo Studio',
 		imgUrl:
-			'https://raw.githubusercontent.com/geraxgera/tattoo-studio/main/Bildschirm%C2%ADfoto%202023-01-07%20um%2000.42.19.png',
-		tech: ['React JS', 'JS', 'CSS'],
+		'https://user-images.githubusercontent.com/71287015/211030951-270d8ba6-fcbf-457b-acf3-eb5f572df50f.png',
+		tech: ['PHP', 'JS', 'CSS', 'Docker'],
 		workUrl: 'https://github.com/geraxgera/tattoo-studio',
 	},
-	// 
 	{
-		title: "Shaif'f Cuisine",
+		title: 'TravelApp',
 		imgUrl:
-			'https://raw.githubusercontent.com/geraxgera/tattoo-studio/main/Bildschirm%C2%ADfoto%202023-01-07%20um%2000.47.17.png',
-		tech: ['HTML', 'CSS', 'Netlify'],
-		workUrl: 'https://github.com/ShaifArfan/shaif-s-cuisine',
+			'https://user-images.githubusercontent.com/71287015/211803950-3431cd50-0ff0-4e09-b0f7-b619a635cd86.png',
+		tech: ['Adobe XD'],
+		workUrl: 'https://www.behance.net/gallery/161037801/TravelApp?',
 	},
 	{
-		title: "Ayan's Portfolio Website",
+		title: "ToDoApp React",
 		imgUrl:
-			'https://user-images.githubusercontent.com/71287015/211030951-270d8ba6-fcbf-457b-acf3-eb5f572df50f.png',
-		tech: ['React JS', 'CSS'],
-		workUrl: 'https://github.com/ShaifArfan/AYANs-portfolio',
+			'https://user-images.githubusercontent.com/71287015/211800301-e506a576-5ea4-4453-89d1-9e0ba84931e2.png',
+		tech: ['HTML', 'CSS', 'React'],
+		workUrl: 'https://github.com/geraxgera/ToDoApp',
 	},
 	{
-		title: 'Artistic',
+		title: "ToDoApp Vue",
 		imgUrl:
-			'https://user-images.githubusercontent.com/71287015/211030951-270d8ba6-fcbf-457b-acf3-eb5f572df50f.png',
-		tech: ['React JS', 'CSS'],
-		workUrl: 'https://github.com/ShaifArfan/artistic',
+			'https://user-images.githubusercontent.com/71287015/211802184-6ccea0de-5cfd-4253-bb88-88e951ebde6f.png',
+		tech: ['HTML','CSS','Vue'],
+		workUrl: 'https://github.com/geraxgera/TodoAppVue',
 	},
+	
 ];
