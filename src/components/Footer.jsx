@@ -12,9 +12,9 @@ function Footer() {
       >
         gera.konradi@gmail.com
       </a>
-      <div class="container pt-9">
-        <div class="flex justify-center mb-9">
-          <a href="https://www.facebook.com/gera.konradi/" class="mr-9 text-gray-800" target="_blank">
+      <div class="container pt-9 ">
+        <div class="flex justify-center mb-9 ">
+          <a href="https://www.facebook.com/gera.konradi/" class="mr-9 text-gray-800 dark:text-white" target="_blank">
             <svg
               aria-hidden="true"
               focusable="false"
@@ -31,7 +31,7 @@ function Footer() {
               ></path>
             </svg>
           </a>
-          <a href="https://twitter.com/geraxgera" class="mr-9 text-gray-800" target="_blank">
+          <a href="https://twitter.com/geraxgera" class="mr-9 text-gray-800 dark:text-white" target="_blank">
             <svg
               aria-hidden="true"
               focusable="false"
@@ -48,7 +48,7 @@ function Footer() {
               ></path>
             </svg>
           </a>
-          <a href="https://www.instagram.com/geraxgera/" class="mr-9 text-gray-800" target="_blank">
+          <a href="https://www.instagram.com/geraxgera/" class="mr-9 text-gray-800 dark:text-white" target="_blank">
             <svg
               aria-hidden="true"
               focusable="false"
@@ -65,7 +65,7 @@ function Footer() {
               ></path>
             </svg>
           </a>
-          <a href="https://www.linkedin.com/in/german-konradi-962860206/" class="mr-9 text-gray-800" target="_blank">
+          <a href="https://www.linkedin.com/in/german-konradi-962860206/" class="mr-9 text-gray-800 dark:text-white" target="_blank">
             <svg
               aria-hidden="true"
               focusable="false"
@@ -82,7 +82,7 @@ function Footer() {
               ></path>
             </svg>
           </a>
-          <a href="https://github.com/geraxgera" class="text-gray-800" target="_blank">
+          <a href="https://github.com/geraxgera" class="text-gray-800 dark:text-white" target="_blank">
             <svg
               aria-hidden="true"
               focusable="false"
@@ -109,3 +109,4 @@ function Footer() {
 }
 
 export default Footer;
+
