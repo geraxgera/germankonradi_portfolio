@@ -25,7 +25,7 @@ function About() {
         </a>
       </div>
            <img
-        src={"https://user-images.githubusercontent.com/71287015/211805419-d983e620-cf83-4d42-b85e-a437e5866641.png"}
+        src={"https://user-images.githubusercontent.com/71287015/213868478-08166c37-d449-4842-9903-cb93984ea54b.jpeg"}
         alt="German Konradi"
         className=" w-6/12 rounded-lg object-cover "
       />
