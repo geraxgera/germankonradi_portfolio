@@ -26,8 +26,8 @@ function About() {
       </div>
       <img
         src={
-          https://avatars.githubusercontent.com/u/71287015?v=4
-        }
+          https://user-images.githubusercontent.com/71287015/211805419-d983e620-cf83-4d42-b85e-a437e5866641.png
+    }
         alt="German Konradi"
         className=" w-6/12 rounded-lg object-cover "
       />
