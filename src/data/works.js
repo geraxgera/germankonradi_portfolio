@@ -22,11 +22,11 @@ export default [
 		workUrl: 'https://github.com/geraxgera/RUDAgramm',
 	},
 	{
-		title: "ToDoApp Vue",
+		title: "JobSuche",
 		imgUrl:
-			'https://user-images.githubusercontent.com/71287015/211802184-6ccea0de-5cfd-4253-bb88-88e951ebde6f.png',
-		tech: ['HTML','CSS','Vue'],
-		workUrl: 'https://github.com/geraxgera/TodoAppVue',
+			'https://github.com/geraxgera/JobSuche/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-04-27%20%D0%B2%2017.02.16.png?raw=true',
+		tech: ['HTML','CSS','React'],
+		workUrl: 'https://github.com/geraxgera/JobSuche',
 	},
 	
 ];
