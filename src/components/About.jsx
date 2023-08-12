@@ -7,13 +7,13 @@ function About() {
       <div className="w-full md:w-6/12">
         <SectionTitle>Über mich </SectionTitle>
         <p className="text-md text-gray-600 dark:text-gray-300">
-          Mein Name ist German. Ich absolviere momentan mein Studium/Diploma als
-          Webdesigner-/entwickler beim SAE Institute München. In meiner Freizeit
-          lese ich gerne, fotografiere und informiere mich noch tiefer in das
-          Coding. Ich bin verheiratet und wir bekommen demnächst ein Kind. Seit
+          Mein Name ist German Konradi. Ich habe mein Studium/Diploma als
+          Webdesigner-/entwickler beim SAE Institute München absolviert. In
+          meiner Freizeit lese ich gerne, fotografiere und informiere mich noch
+          tiefer über das Coding. Ich bin verheiratet und habe ein Kind. Seit
           meiner Kindheit versuchte ich immer der Berufswünsche meiner Eltern,
           so wie es die meisten machen, zu folgen. Dadurch habe ich viele
-          verschiedene Bereiche ausprobiert, war aber nie richtig zufrieden, mit
+          verschiedene Bereiche ausprobiert, war aber nie richtig zufrieden mit
           dem was ich mache und kam zu dem Entschluss, meinen eigenen Träumen zu
           folgen und startete somit das Studium.
         </p>
